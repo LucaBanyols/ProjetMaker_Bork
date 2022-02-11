@@ -1,0 +1,43 @@
+
+body {background-color: #DD985C }
+
+H1	{
+	color: #ffffff;
+	font-family: verdana;
+	font-style: italic;
+	font-size:2.5em;
+	}
+	
+	
+t1	{
+	color: #472100;
+	font-family: verdana;
+	font-size:1.5em;
+	}	
+	
+t2	{
+	color: #222222;
+	font-family: verdana;
+	font-size:2em;
+	text-decoration: underline;
+	}	
+	
+
+a{
+font-size:1.5em;	
+color: #730800;
+text-decoration: none;
+}	
+
+a:hover {   /*appelé quand on survole les balises a.menu*/
+	font-size:1.5em;
+	text-shadow: 2px 2px 12px #472100;  /*... une ombre décalée de 2,2 px et d'un flou de 12 pixels est ajouté de la couleur cyan*/
+	color: #730800;
+}
+	
+span.type1	
+	{
+	color: #000000;
+	font-family: verdana;
+	font-size:2em;
+	}
